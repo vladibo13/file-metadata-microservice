@@ -7,6 +7,7 @@ npm-shrinkwrap.json
 *.gz
 /.pnp
 .pnp.js
+/uploads
 
 # testing
 /coverage
